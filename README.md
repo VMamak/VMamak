@@ -2,4 +2,4 @@ Currently building [SouthWindsor.com](https://southwindsor.com), a community dir
 
 Python static site generation on Cloudflare Workers, a spreadsheet-driven CMS with data validation, GitHub Actions for scheduled publishing, and cookieless analytics with a private dashboard.
 
-[linkedin]([https://www.linkedin.com/in/vikram-mamak-860/]) · me@vikrammamak.com
+[LinkedIn](https://www.linkedin.com/in/vikram-mamak-860/) · [me@vikrammamak.com](mailto:me@vikrammamak.com)
